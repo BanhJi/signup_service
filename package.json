@@ -1,0 +1,25 @@
+{
+  "name": "signup_service",
+  "version": "1.0.0",
+  "description": "signup and trigger when new user and institute signup",
+  "main": "handler.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BanhJi/signup_service.git"
+  },
+  "author": "Sokdararith Prak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BanhJi/signup_service/issues"
+  },
+  "homepage": "https://github.com/BanhJi/signup_service#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}

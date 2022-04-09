@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/BanhJi/signup_service#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "standard": "^14.3.1"
